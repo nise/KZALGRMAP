@@ -1,0 +1,24 @@
+{
+  "name": "kzalgrmap",
+  "version": "1.0.0",
+  "description": "A web app visualizing places, routes, and areas related with the former concentration camp in Görlitz, Germany.",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [
+    "concentration",
+    "camp",
+    "map",
+    "leaflet"
+  ],
+  "author": "Niels Seidel, <niels.seidel@nise81.com>",
+  "license": "ISC",
+  "dependencies": {
+    "leaflet": "^1.8.0",
+    "vue": "^3.2.33"
+  },
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
