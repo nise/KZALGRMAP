@@ -7,6 +7,7 @@ This little web app visualzes places, routes, and areas related with the former 
 - add locations
 - add routes
 - add areas
+- [ ] https://github.com/Leaflet/Leaflet.markercluster
 
 # Installation
 

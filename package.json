@@ -19,6 +19,5 @@
     "vue": "^3.2.33"
   },
   "devDependencies": {
-    "serve": "^11.2.0"
   }
 }
